@@ -109,5 +109,5 @@
 
 ### Best: Monaco
 
-#### Since I have already done the Monaco analysis, I won't repeat it. You can see it [here](#best:-monaco(2019))
+#### Since I have already done the Monaco analysis, I won't repeat it. You can see it [here](#best-monaco-2019)
 
