@@ -1,4 +1,4 @@
-## Life expectancy analysis
+<img src='images/lifeexpectancy.gif' width='900'>
 
 ---
 
