@@ -109,4 +109,4 @@
 
 ### Best: Monaco
 
-#### Since I have already done the Monaco analysis, you can see it [here](#best-monaco2019).
+#### Monaco is the best of all time and the best recently. Since I have already done the Monaco analysis, you can see it [here](#best-monaco2019).
