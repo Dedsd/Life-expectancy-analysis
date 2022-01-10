@@ -2,6 +2,10 @@
 
 ---
 
+### For better visualization of the jupyter notebook access [here](https://nbviewer.org/github/Dedsd/Life-expectancy-analysis/blob/master/Life_Expectancy_Analysis.ipynb).
+
+---
+
 ### Database
 
 #### Link: https://www.kaggle.com/sansuthi/life-expectancy
