@@ -2,7 +2,7 @@
 
 ---
 
-### For better visualization of the jupyter notebook access [here](https://nbviewer.org/github/Dedsd/Life-expectancy-analysis/blob/master/Life_Expectancy_Analysis.ipynb).
+### ⏩ For better visualization of the jupyter notebook access [here](https://nbviewer.org/github/Dedsd/Life-expectancy-analysis/blob/master/Life_Expectancy_Analysis.ipynb).
 
 ---
 
